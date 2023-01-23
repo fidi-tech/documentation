@@ -1,11 +1,16 @@
 # Table of contents
 
 * [Introduction](README.md)
-
-## Group 1
-
-* [Core Features: Wallet](group-1/core-features-wallet.md)
-
-***
-
-* [FAQ](faq.md)
+* [Getting Started](getting-started/README.md)
+  * [FAQ](getting-started/faq.md)
+* [Core Analytics](core-analytics.md)
+* [Advanced Analytics](advanced-analytics.md)
+* [Privacy & Security](privacy-and-security.md)
+* [User Guides](user-guides.md)
+* [Data Sources](data-sources/README.md)
+  * [FiDi Trust Score](data-sources/fidi-trust-score.md)
+* [Roadmaps](roadmaps/README.md)
+  * [Product](roadmaps/product.md)
+  * [Coverage](roadmaps/coverage.md)
+* [Contribute to FiDi](contribute-to-fidi.md)
+* [Team](team.md)

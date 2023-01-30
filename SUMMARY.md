@@ -1,12 +1,13 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Getting Started](getting-started/README.md)
-  * [FAQ](getting-started/faq.md)
+* [Getting Started](getting-started.md)
 * [Core Analytics](core-analytics.md)
 * [Advanced Analytics](advanced-analytics.md)
 * [Privacy & Security](privacy-and-security.md)
-* [User Guides](user-guides.md)
+* [User Guides](user-guides/README.md)
+  * [How to use Portfolio Tracker](user-guides/how-to-use-portfolio-tracker.md)
+  * [How to check Transaction History](user-guides/how-to-check-transaction-history.md)
 * [Data Sources](data-sources/README.md)
   * [FiDi Trust Score](data-sources/fidi-trust-score.md)
 * [Roadmaps](roadmaps/README.md)
